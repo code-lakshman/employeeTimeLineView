@@ -100,5 +100,5 @@ function allActivities() {
 
 ?>
 <div class="row">
-                <?php timeline(); ?>
+                <?php timeline(); //call?>
                 </div>
