@@ -1,5 +1,5 @@
 <?php
-
+//comment
 function timeline() {
     $activity = $this->allActivities();
     echo '<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
